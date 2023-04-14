@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.satendrasingh51.autoupdater
+productName: Autoupdater app
+win:
+  target: nsis
+files: []
+electronVersion: 24.0.0

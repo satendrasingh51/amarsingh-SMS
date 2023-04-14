@@ -1,0 +1,8 @@
+version: 0.0.0
+files:
+  - url: Autoupdater-app-Setup-0.0.0.exe
+    sha512: GjVtjxMA0ARl31C9xgAuViGU74astmxLv5+LXw77dgo0k39u8Zqc0YiLSqze4K+mncmOufJIwXIf1f9n5JdMnQ==
+    size: 78590725
+path: Autoupdater-app-Setup-0.0.0.exe
+sha512: GjVtjxMA0ARl31C9xgAuViGU74astmxLv5+LXw77dgo0k39u8Zqc0YiLSqze4K+mncmOufJIwXIf1f9n5JdMnQ==
+releaseDate: '2023-04-13T17:43:33.099Z'
